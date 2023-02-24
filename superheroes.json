@@ -1,0 +1,42 @@
+{
+  "squadName" : "Super Heores Bogotá",
+  "homeTown" : "Bogotá",
+  "formed" : 2023,
+  "secretBase" : "Torre Colpatria",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "jean Van",
+      "age" : 29,
+      "secretIdentity" : "Hombre Transmilenio",
+      "powers" : [
+        "Soporta Empujones",
+        "No se cola",
+        "Paga Su pasaje"
+      ]
+    },
+    {
+      "name" : "Alex SwachSIPT",
+      "age" : 39,
+      "secretIdentity" : "HombreSITP",
+      "powers" : [
+        "No cierra los otros Carros",
+        "No pelea con Taxistas",
+        "Evita Trancones"
+      ]
+    },
+    {
+      "name" : "Andrea Valderrama",
+      "age" : 35,
+      "secretIdentity" : "Operadora",
+      "powers" : [
+        "Manda Buses Seguidos ",
+        "Es capaz de Insertar una USB a la primera",
+        "No pelea con nadie",
+        "No cela al marido",
+        "Interdimensional travel"
+
+     ]
+    }
+  ]
+}
